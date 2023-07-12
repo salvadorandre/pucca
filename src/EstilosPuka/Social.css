@@ -1,0 +1,10 @@
+.redes { 
+    display: flex;
+    margin-top: 75px;
+    justify-content: space-around;
+}
+
+.redes .icon { 
+    color: #fff;
+    font-size: 25px;
+}
